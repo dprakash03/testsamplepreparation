@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bDmPrHQBhw0KN5T4lweh9/44/KcA7rJ73Za+JS066cRnADrw4X8O/oYDPSK3lYDubYIP9weQyvyHt6NvLpc1lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dgoondla\\source\\repos\\testConsoleApp\\calculator\\calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dgoondla\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dgoondla\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\dgoondla\source\repos\testConsoleApp\calculator\bin\Debug\netstandard2.0\calculator.deps.json
+C:\Users\dgoondla\source\repos\testConsoleApp\calculator\bin\Debug\netstandard2.0\calculator.dll
+C:\Users\dgoondla\source\repos\testConsoleApp\calculator\bin\Debug\netstandard2.0\calculator.pdb
+C:\Users\dgoondla\source\repos\testConsoleApp\calculator\obj\Debug\netstandard2.0\calculator.AssemblyInfoInputs.cache
+C:\Users\dgoondla\source\repos\testConsoleApp\calculator\obj\Debug\netstandard2.0\calculator.AssemblyInfo.cs
+C:\Users\dgoondla\source\repos\testConsoleApp\calculator\obj\Debug\netstandard2.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\dgoondla\source\repos\testConsoleApp\calculator\obj\Debug\netstandard2.0\calculator.dll
+C:\Users\dgoondla\source\repos\testConsoleApp\calculator\obj\Debug\netstandard2.0\calculator.pdb
+C:\Users\dgoondla\source\repos\testConsoleApp\calculator\obj\Debug\netstandard2.0\calculator.csprojAssemblyReference.cache
