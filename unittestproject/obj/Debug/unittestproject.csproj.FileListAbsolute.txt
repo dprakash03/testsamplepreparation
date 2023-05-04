@@ -12,3 +12,17 @@ C:\Users\dgoondla\source\repos\testConsoleApp\unittestproject\obj\Debug\unittest
 C:\Users\dgoondla\source\repos\testConsoleApp\unittestproject\obj\Debug\unittestproject.csproj.CopyComplete
 C:\Users\dgoondla\source\repos\testConsoleApp\unittestproject\obj\Debug\unittestproject.dll
 C:\Users\dgoondla\source\repos\testConsoleApp\unittestproject\obj\Debug\unittestproject.pdb
+C:\Users\dprak\source\repos\dprakash03\testsamplepreparation\unittestproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dprak\source\repos\dprakash03\testsamplepreparation\unittestproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dprak\source\repos\dprakash03\testsamplepreparation\unittestproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dprak\source\repos\dprakash03\testsamplepreparation\unittestproject\bin\Debug\unittestproject.dll
+C:\Users\dprak\source\repos\dprakash03\testsamplepreparation\unittestproject\bin\Debug\unittestproject.pdb
+C:\Users\dprak\source\repos\dprakash03\testsamplepreparation\unittestproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dprak\source\repos\dprakash03\testsamplepreparation\unittestproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dprak\source\repos\dprakash03\testsamplepreparation\unittestproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dprak\source\repos\dprakash03\testsamplepreparation\unittestproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dprak\source\repos\dprakash03\testsamplepreparation\unittestproject\obj\Debug\unittestproject.csproj.AssemblyReference.cache
+C:\Users\dprak\source\repos\dprakash03\testsamplepreparation\unittestproject\obj\Debug\unittestproject.csproj.CoreCompileInputs.cache
+C:\Users\dprak\source\repos\dprakash03\testsamplepreparation\unittestproject\obj\Debug\unittestproject.csproj.CopyComplete
+C:\Users\dprak\source\repos\dprakash03\testsamplepreparation\unittestproject\obj\Debug\unittestproject.dll
+C:\Users\dprak\source\repos\dprakash03\testsamplepreparation\unittestproject\obj\Debug\unittestproject.pdb
